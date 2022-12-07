@@ -1,2 +1,2 @@
 # Flipkart-Clon
-Create A Flipkart Clon Using HTML, CSS, JAVASCRIPT
+Create A Flipkart Clon Using HTML, CSS
